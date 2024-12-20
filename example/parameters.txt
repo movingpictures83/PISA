@@ -1,0 +1,4 @@
+rule	'CR,R1:1-16,barcodes.txt,CB,1;UR,R1:17-28;R1,R2'
+fastq1	demo_1.fq.gz
+fastq2	demo_2.fq.gz
+rawseq	demo.fq	

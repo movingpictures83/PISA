@@ -1,0 +1,2 @@
+Prefix plugins/PISA/example/
+Plugin PISA inputfile parameters.txt outputfile none
